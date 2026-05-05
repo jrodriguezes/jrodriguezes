@@ -4,7 +4,7 @@
 
 I'm a Software Engineering student from Costa Rica (UTN, Diploma Completed) with a huge passion for technology and coding. 
 
-My main focus is on Full-Stack development, backend systems, and databases. I really enjoy building things from scratch, exploring how AI can be integrated into web applications.
+My main focus is on Full-Stack development, backend systems, and databases. I really enjoy building things, exploring how AI can be integrated into web applications.
 
 ---
 
