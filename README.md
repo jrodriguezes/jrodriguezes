@@ -10,7 +10,7 @@ My main focus is on Full-Stack development, backend systems, and databases. I re
 
 ### 🚀 What I'm up to
 - 🔭 **Currently working on:** Building Full-Stack web and desktop applications, and collaborating as a member of the AI Division at CodeIn Software Community (UTN).
-- 💬 **Ask me about:** PC hardware, video games, or your favorite anime!
+- 💬 **Ask me about:** PC hardware, video games, or anime!
 
 ---
 
@@ -22,6 +22,7 @@ My main focus is on Full-Stack development, backend systems, and databases. I re
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Backend & Frameworks:**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
