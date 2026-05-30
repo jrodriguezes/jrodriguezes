@@ -40,7 +40,7 @@ My main focus is on Full-Stack development, backend systems, and databases. I re
 ### 🏆 Featured Projects
 
 * **[ChatOllama]** - Developed a chat interface using Java components and integrated the Llama 3.1 AI model via Ollama in Python, featuring real-time communication using sockets. *(https://github.com/jrodriguezes/ChatOllama)*
-* **[Tico-Autos]** - A complete CRUD application using Web Technologies and SQL Server for inventory and maintenance management. *(https://github.com/jrodriguezes/backend-tico-autos-II)
+* **[Tico-Autos]** - A complete CRUD application using Web Technologies and SQL Server for inventory and maintenance management. *(https://github.com/jrodriguezes/backend-tico-autos-II)*
 
 ---
 
